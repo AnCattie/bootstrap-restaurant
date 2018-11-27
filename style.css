@@ -1,3 +1,11 @@
 body {
-  background-color:#AAAAAA;
+  background-color:#94b7bc;
+}
+
+nav {
+  color: white
+}
+
+a {
+   color: inherit; 
 }
