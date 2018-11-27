@@ -3,7 +3,7 @@ body {
 }
 
 nav {
-  color: white
+  color: white;
 }
 
 a {
@@ -11,5 +11,24 @@ a {
 }
 
 .card {
-  background-color: #4e6472
+  background-color: #4e6472;
+}
+
+.card {
+  color: white;
+}
+
+footer {
+  -webkit-box-shadow: 0px -10px 18px 2px #7D7D7D;
+  -moz-box-shadow: 0px -10px 18px 2px #7D7D7D;
+  box-shadow: 0px -10px 18px 2px #7D7D7D;}
+
+.eten {
+  -webkit-column-count: 2;
+       -moz-column-count: 2;
+            column-count: 2;
+}
+
+h5 {
+  color: white;
 }

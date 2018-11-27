@@ -6,3 +6,12 @@ body {
   background-color: #F5E8B6;
 
 }
+
+a {
+   color: inherit;
+}
+
+footer {
+  -webkit-box-shadow: 0px -10px 18px 2px #7D7D7D;
+  -moz-box-shadow: 0px -10px 18px 2px #7D7D7D;
+  box-shadow: 0px -10px 18px 2px #7D7D7D;}
