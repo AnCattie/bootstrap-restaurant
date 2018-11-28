@@ -2,10 +2,13 @@ body {
   background-color:#94b7bc;
 }
 
-.row {
-  background-color: #F5E8B6;
-
+.col-sm-6, .col-sm-5 {
+  -webkit-box-shadow: 0px 4px 24px 15px #9e989e;
+-moz-box-shadow: 0px 4px 24px 15px #9e989e;
+box-shadow: 0px 4px 24px 15px #9e989e;
+background-color: #F5E8B6;
 }
+
 
 a {
    color: inherit;
